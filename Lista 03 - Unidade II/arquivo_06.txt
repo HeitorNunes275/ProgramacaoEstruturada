@@ -1,0 +1,4 @@
+procurando palavras em um arquivo texto usando c++
+para a disciplina
+estruturada
+testando
